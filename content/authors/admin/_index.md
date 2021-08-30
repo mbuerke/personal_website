@@ -21,9 +21,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Suicide Risk Factors
-- Rumination
-- Nudging
+- Risk Factors for suicidal ideation and behavior
+- Emotion Regulation
+- Decision-making
+- Behavioral economics
 
 # Education to show in About widget
 education:
@@ -71,4 +72,4 @@ highlight_name: true
 
 {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 7-7-21.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 08-07-2021.pdf" "newtab" >}}CV{{< /staticref >}}.
