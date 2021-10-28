@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-01
+date: 2017-04-01
 all_day: true
 
 
 
-authors: []
+authors: [Thalluri, R., Buerke, M., Sidney, P.G., Thompson, C.A.]
 tags: []
 
 # Is this a featured event? (true/false)
