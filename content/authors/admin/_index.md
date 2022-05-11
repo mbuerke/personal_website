@@ -22,9 +22,10 @@ organizations:
 # Interests to show in About widget
 interests:
 - Risk Factors for suicidal ideation and behavior
+- Rumination and other thought processes
 - Emotion Regulation
-- Decision-making
-- Behavioral economics
+- Decision-making/ Behavioral economics
+- Use of technology to assess for suicidality
 
 # Education to show in About widget
 education:
@@ -68,8 +69,8 @@ email: ""
 highlight_name: true
 ---
 
- I am currently working in Dr. Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi with the purpose of studying how cognitive biases relate to suicide risk and how novel techniques, such as nudging can be used to mitigate suicide risk.
+ I am currently working in Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi with the purpose of studying how thought processes (such as repetitive negative thinking, control of thoughts), cognitive biases, and sensitivities (i.e. anxiety, depression sensitivity) relate to suicidal ideation and risk for suicide. 
 
 {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 08-07-2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 5-7-2022.pdf" "newtab" >}}CV{{< /staticref >}}.

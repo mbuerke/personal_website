@@ -8,9 +8,9 @@ headless: true
 active: false
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
-title: Projects
+title: Featured Projects
 subtitle: ''
 
 content:
@@ -28,9 +28,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
+  - name: Late Life Suicide
+    tag: 
+  - name: Math Cognition
     tag: Demo
 
 design:
