@@ -5,12 +5,12 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 20
 
-title: Featured Projects
+title: Recent Projects
 subtitle: ''
 
 content:
@@ -26,12 +26,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
+  - name: Risk/Protective factors
+    tag: risk factors
+  - name: Thought processes
+    tag: thought processes
+  - name: Decision-making
+    tag: decision-making
+  - name: Technology
+    tag:  technology
   - name: All
     tag: '*'
-  - name: Late Life Suicide
-    tag: 
-  - name: Math Cognition
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -42,7 +46,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
