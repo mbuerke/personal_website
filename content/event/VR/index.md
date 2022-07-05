@@ -1,25 +1,25 @@
 ---
-title: Assessing Anger Rumination
+title: "Considerations for the Use of Virtual Reality for the Study of Suicidality"
 
-event: Summer Undergraduate Research Experience
+event: Suicide Research Symposium
 event_url: 
 
-location: Kent State University
+location: Virtual
 
-summary: Three-minute thesis presentation
+summary: 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-10-04"
+date: "2022-06-16"
 date_end: 
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 
 
-authors: [Buerke, M.]
-tags:
+authors: [Buerke, M., Caulfield, N., Karnick, A., Capron, D.W.]
+tags: [suicide, virtual reality, methodology]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -43,6 +43,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+- CTQ
 ---
 
 

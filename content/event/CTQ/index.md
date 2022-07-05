@@ -18,7 +18,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 
 
-authors: [Chang, Y. Galfalvy, H., Buerke, M., Szanto, K.]
+authors: [Chang, Y., Galfalvy, H., Buerke, M., Szanto, K.]
 tags: [suicide, late life, childhood trauma, abuse, neglect, depression]
 
 # Is this a featured talk? (true/false)

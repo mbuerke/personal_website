@@ -2,14 +2,13 @@
 # Display name
 title: Morgan Buerke
 
-authors:
-- "Buerke"
+authors: Buerke, M.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,8 +68,8 @@ email: ""
 highlight_name: true
 ---
 
- I am currently working in Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi with the purpose of studying how thought processes (such as repetitive negative thinking, control of thoughts), cognitive biases, and sensitivities (i.e. anxiety, depression sensitivity) relate to suicidal ideation and risk for suicide. 
+ I am currently working in Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi with the purpose of studying how thought processes (i.e. repetitive negative thinking, control of thoughts), cognitive biases, and sensitivities (i.e. anxiety, depression sensitivity) relate to suicidal ideation and risk for suicide. 
 
 {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 5-7-2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 7-4-2022.pdf" "newtab" >}}CV{{< /staticref >}}.
