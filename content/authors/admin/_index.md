@@ -16,7 +16,7 @@ organizations:
   url: https://www.usm.edu/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: I am currently working in Dr. Daniel Capron's Anxiety and Trauma Research Lab with the purpose of studying how cognitive biases relate to suicide risk and how novel techniques, such as nudging can be used to mitigate suicide risk. 
+#bio:
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,7 @@ interests:
 - Emotion Regulation
 - Decision-making/ Behavioral economics
 - Use of technology to assess for suicidality
+- Treatment of suicidal thoughts
 
 # Education to show in About widget
 education:
@@ -68,8 +69,8 @@ email: ""
 highlight_name: true
 ---
 
- I am currently working in Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi with the purpose of studying how thought processes (i.e. repetitive negative thinking, control of thoughts), cognitive biases, and sensitivities (i.e. anxiety, depression sensitivity) relate to suicidal ideation and risk for suicide. 
-
-{{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 8-8-2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+ II am currently working in Dr. Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi. My ultimate goal is to improve our ability to detect suicide risk and prevent suicides. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
+ 
+ {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
+ 
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV CV 1-14-2023.pdf" "newtab" >}}CV{{< /staticref >}}.
