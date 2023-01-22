@@ -19,18 +19,17 @@ publication_types: ["2"]
 publication: "The American Journal of Geriatric Psychiatry"
 publication_short:
 
-abstract: 
-<strong>Objective</strong>
-"Suicide is an outcome arising from a combination of risk and protective factors. Examining psychological resilience traits associated with successful aging may help to better understand late-life suicide and depression. We examined self-reported protective factors including mindfulness, life satisfaction and engagement, flourishing, and subjective and objective social support in a high suicide-risk sample of depressed older adults."
-
-<strong>Methods</strong>
-"Participants were 297 individuals aged 55+ (mean age: 64.2): 92 depressed suicide attempters, 138 depressed individuals who never attempted suicide, and 67 non-psychiatric comparisons. Using linear and binomial logistic regression, we examined the effects of a combined Protective Factor value on presence and severity of depression and suicidal ideation, and history of suicide attempt."
-
-<strong>Results</strong>
-"Relative to the non-psychiatric comparison group, all depressed participants had significantly lower Protective Factor values. Higher Protective Factor value was associated with lower likelihood of depression, depression severity, and likelihood of ideation, but was not associated with ideation severity or history of suicide attempt. Participants with one standard deviation higher protective factor had lower odds of ideation incidence by a factor of OR=0.68 (95%CI=0.48-0.96)."
-
-<strong>Conclusions</strong>
-"Resiliency characteristics, relevant to psychological wellbeing and successful aging, may mitigate the emergence of depression and suicidal ideation, as well as the severity of depression in late-life. The Resilience Factor used in this study can help clinicians nuance their appraisal of depression and suicide risk."
+abstract: "<strong>Objective:</strong>
+Suicide is an outcome arising from a combination of risk and protective factors. Examining psychological resilience traits associated with successful aging may help to better understand late-life suicide and depression. We examined self-reported protective factors including mindfulness, life satisfaction and engagement, flourishing, and subjective and objective social support in a high suicide-risk sample of depressed older adults.
+<br>
+<strong>Methods:</strong>
+Participants were 297 individuals aged 55+ (mean age: 64.2): 92 depressed suicide attempters, 138 depressed individuals who never attempted suicide, and 67 non-psychiatric comparisons. Using linear and binomial logistic regression, we examined the effects of a combined Protective Factor value on presence and severity of depression and suicidal ideation, and history of suicide attempt.
+<br>
+<strong>Results:</strong>
+Relative to the non-psychiatric comparison group, all depressed participants had significantly lower Protective Factor values. Higher Protective Factor value was associated with lower likelihood of depression, depression severity, and likelihood of ideation, but was not associated with ideation severity or history of suicide attempt. Participants with one standard deviation higher protective factor had lower odds of ideation incidence by a factor of OR=0.68 (95%CI=0.48-0.96).
+<br>
+<strong>Conclusions:</strong>
+Resiliency characteristics, relevant to psychological wellbeing and successful aging, may mitigate the emergence of depression and suicidal ideation, as well as the severity of depression in late-life. The Resilience Factor used in this study can help clinicians nuance their appraisal of depression and suicide risk."
 
 # Summary. An optional shortened abstract.
 summary: ""
