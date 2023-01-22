@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
- II am currently working in Dr. Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi. My ultimate goal is to improve our ability to detect suicide risk and prevent suicides. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
+ II am currently working in Dr. Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi. My ultimate goal is to improve our ability to detect suicide risk and prevent suicide. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
  
  {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
  
