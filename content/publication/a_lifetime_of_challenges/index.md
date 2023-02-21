@@ -39,7 +39,7 @@ summary: ""
 
 tags: [Old age, Suicidal behavior, Suicidal ideation, Life outcomes, Decision-making, Externalizing]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
