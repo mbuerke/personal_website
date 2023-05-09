@@ -1,8 +1,8 @@
 ---
 title: Suicide in Sexual Minority People
-summary: I am currently examining risk factors for suicide among sexual minority people.
+summary: 
 tags:
-- Sexual Minority
+- SMP
 date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).

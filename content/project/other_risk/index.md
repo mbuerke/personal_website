@@ -1,6 +1,6 @@
 ---
 title: Other risk factors
-summary: Other risk factors not listed above
+summary:
 tags:
 - risk factors
 date: "2022-5-12"

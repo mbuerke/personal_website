@@ -32,6 +32,8 @@ item:
   organization_url: 
   title: 2022-23 Mamie Phipps Clark Diversity Research Grant
   url: ""
+  projects: 
+  - SMP
 - certificate_url: 
   date_end: ""
   date_start: "2017-06-01"

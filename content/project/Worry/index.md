@@ -1,6 +1,6 @@
 ---
 title: Worry and suicide
-summary: Examining the relationship between worry and suicide
+summary: 
 tags:
 - thought processes
 date: "2022-5-12"

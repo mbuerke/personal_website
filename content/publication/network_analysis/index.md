@@ -60,6 +60,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - anx sens
+- trauma
 - other_risk
 
 # Slides (optional).

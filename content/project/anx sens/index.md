@@ -1,6 +1,6 @@
 ---
 title: Anxiety, Depression, and Suicide-related Sensitivities
-summary: Examining the relationship between different types of sensitivities and how they relate to suicide. 
+summary:
 tags:
 - thought processes
 date: "2022-5-12"

@@ -1,6 +1,6 @@
 ---
 title: Measurement of Suicidal Ideation
-summary: I am examining how fluctuations in suicidal ideation and the way we measure suicidal ideation have implications for our risk assessments.
+summary: 
 tags:
 - risk assessment
 date: "2022-5-12"

@@ -32,8 +32,12 @@ content:
     tag: thought processes
   - name: Decision-making
     tag: decision-making
-  - name: Technology
-    tag:  technology
+  - name: Risk Assessment
+    tag:  risk assessment
+  - name: Sexual Minority People
+    tag:  SM
+  - name: Veterans and First Responders
+    tag:  VFR
   - name: All
     tag: '*'
 
@@ -46,7 +50,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

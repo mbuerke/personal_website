@@ -1,6 +1,6 @@
 ---
 title: Control
-summary: Examining how different forms of control relate to suicide
+summary: 
 tags:
 - thought processes
 date: "2021-04-01"

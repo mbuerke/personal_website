@@ -1,6 +1,6 @@
 ---
 title: Trauma
-summary: I am exploring how childhood and adult experiences of trauma relate to suicide.
+summary: 
 tags:
 - risk factors
 date: "2022-5-12"

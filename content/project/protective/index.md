@@ -1,6 +1,6 @@
 ---
 title: Protective Factors
-summary: In contrast to general risk factors for suicide, I have examined how different protective factors may relate to suicide.
+summary: 
 tags:
 - risk factors
 date: "2022-5-12"

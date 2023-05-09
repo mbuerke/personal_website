@@ -1,9 +1,8 @@
 ---
 title: Veterans and First responders
-summary: I have examined risk factors for transdiagnostic psychopathology and suicide among Veterans and first responders 
+summary: 
 tags:
-- Veterans
-- First responders
+- VFR
 date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).

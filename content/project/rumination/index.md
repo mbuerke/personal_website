@@ -1,6 +1,6 @@
 ---
 title: Rumination
-summary: I have examined how different forms of rumination relate to suicide.
+summary: 
 tags:
 - thought processes
 date: "2021-08-01"

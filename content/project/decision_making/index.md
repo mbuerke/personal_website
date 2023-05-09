@@ -1,6 +1,6 @@
 ---
 title: Decision-making
-summary: I am examining how decision-making relates to suicide.
+summary: 
 tags:
 - decision-making
 date: "2021-04-01"
