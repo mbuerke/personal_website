@@ -26,6 +26,14 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2023-03-31"
+  description: "An Examination of Daily Minority Stress and Suicidal Thoughts in Sexual Minority People"
+  organization: Psi Chi
+  organization_url: 
+  title: 2022-23 Mamie Phipps Clark Diversity Research Grant
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2017-06-01"
   description: "$2,800 to fund data collection on Honor’s Thesis summer research"
   organization: Kent State University
