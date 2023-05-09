@@ -34,7 +34,7 @@ Findings indicate that concussions are associated with an increased risk of suic
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [head injury; suicide; concussion; adolescents]
+tags: [head injury, suicide, concussion, adolescents]
 categories: []
 featured: true
 
@@ -69,7 +69,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- risk factors
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
