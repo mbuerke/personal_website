@@ -1,7 +1,7 @@
 ---
-title: The Relationship Between Rumination, Thought Control, and Suicidal Thinking
+title: The Relations Between Rumination, Thought Control, and Suicidal Thinking
 
-event: 3 minute thesis
+event: Thesis Defense
 event_url: 
 
 location: University of Southern Mississippi
@@ -11,7 +11,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-11-01"
+date: "2022-02-15"
 date_end: 
 all_day: true
 
