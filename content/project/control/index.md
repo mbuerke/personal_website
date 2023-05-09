@@ -1,12 +1,12 @@
 ---
-title: Childhood trauma and early vs. late onset suicidal behavior
-summary: We are exploring how different forms of childhood trauma (abuse, neglect) may relate to age of onset of first suicidal behavior.
+title: Control
+summary: Examining how different forms of control relate to suicide
 tags:
-- risk factors
-date: "2022-5-12"
+- thought processes
+date: "2021-04-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: 
 
 image:
   caption: 

@@ -1,8 +1,8 @@
 ---
-title: Trajectory of Suicidal Ideation in Late life
-summary: We examined the trajectory (changes) in suicidal ideation over months to years and examined risk factors and outcomes associated with each type of trajectory.
+title: Measurement of Suicidal Ideation
+summary: I am examining how fluctuations in suicidal ideation and the way we measure suicidal ideation have implications for our risk assessments.
 tags:
-- risk factors
+- risk assessment
 date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).

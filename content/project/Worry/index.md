@@ -1,12 +1,12 @@
 ---
-title: Risk factors for suicidal behavior across the lifespan
-summary: We examined the relationship between age and history of suicide attempt on borderline traits, depressive rumination, aggression, memory performance, and language fluency.
+title: Worry and suicide
+summary: Examining the relationship between worry and suicide
 tags:
-- risk factors
-date: "2021-08-01"
+- thought processes
+date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: ""
 
 image:
   caption: 

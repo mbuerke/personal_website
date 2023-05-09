@@ -1,9 +1,9 @@
 ---
-title: Network analysis
-summary: I am working on using new analytic techniques, such as network analysis, to observe relationships between transdiagnostic risk factors.
+title: Other risk factors
+summary: Other risk factors not listed above
 tags:
 - risk factors
-date: "2022-08-01"
+date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

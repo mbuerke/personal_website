@@ -1,6 +1,6 @@
 ---
-title: Rumination and Thought Control
-summary: We combined numerous factors that are said to be protective against depression in late life (mindfulness, social support, life engagement, etc.) to see if they would relate to presence or severity of suicidal ideation, or likelihood of past suicide attempt.
+title: Protective Factors
+summary: In contrast to general risk factors for suicide, I have examined how different protective factors may relate to suicide.
 tags:
 - risk factors
 date: "2022-5-12"

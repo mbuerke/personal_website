@@ -1,12 +1,12 @@
 ---
-title: Rumination and Thought Control
-summary: My master's thesis will examine different forms of rumination (angry, depressive, suicidal), and their relationship with thought control and suicidality.
+title: Rumination
+summary: I have examined how different forms of rumination relate to suicide.
 tags:
 - thought processes
-date: "2022-5-12"
+date: "2021-08-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: 
 
 image:
   caption: 

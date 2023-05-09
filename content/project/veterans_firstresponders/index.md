@@ -1,8 +1,9 @@
 ---
-title: Virtual Reality
-summary: We are looking into the considerations for using Virtual Reality scenarios to study suicidality (i.e. jumping from a height).
+title: Veterans and First responders
+summary: I have examined risk factors for transdiagnostic psychopathology and suicide among Veterans and first responders 
 tags:
-- technology
+- Veterans
+- First responders
 date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).

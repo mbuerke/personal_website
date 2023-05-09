@@ -1,13 +1,12 @@
 ---
-title: Decision-making in early vs. late-onset attempters
-summary: We examined decision-making outcomes in early-onset (those with suicidal behavior early in life) vs. late-onset (those who first suicide attempt occured late in life) attempters.
+title: Trauma
+summary: I am exploring how childhood and adult experiences of trauma relate to suicide.
 tags:
-- decision-making
-- late life
-date: "2021-04-01"
+- risk factors
+date: "2022-5-12"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: ""
 
 image:
   caption: 
