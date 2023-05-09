@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The associations between sport- and physical activity-related concussions and suicidality, suicide capability, and hopelessness among high school adolescents"
-authors: [Bailey, A.L.; Capron, D.W.; Buerke, M.L.; Bauer, B.W.]
+authors: [Bailey, A.L., Capron, D.W., Buerke, M.L., Bauer, B.W.]
 date: 2023-04-30
 doi: "https://doi.org/10.1002/jad.12179"
 
