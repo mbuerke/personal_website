@@ -12,8 +12,8 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Southern Mississippi
-  url: https://www.usm.edu/
+- name: Louisiana State University
+  url: https://www.lsu.edu/hss/psychology/grad/prospective-student/areas-of-specialization/clinical.php
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -30,9 +30,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Clinical Psychology
+    institution: Louisiana State University
+    year: In Progress
   - course: MA in Clinical Psychology
     institution: University of Southern Mississippi
-    year: In Progress
+    year: 2023
   - course: BS in Psychology
     institution: Kent State University
     year: 2017
@@ -44,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:morgan.buerke@usm.edu"
+  link: "mailto:mbuerke@kent.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BuerkeMorgan
@@ -69,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
- I am currently working in Dr. Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}} at the University of Southern Mississippi. My ultimate goal is to improve our ability to detect suicide risk and prevent suicide. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
+ I am currently working in Dr. Daniel Capron's {{< staticref "https://usm-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}}, recently moved to Louisiana State University. My ultimate goal is to improve our ability to detect suicide risk and prevent suicide. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
  
  {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
  
