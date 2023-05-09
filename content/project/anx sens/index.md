@@ -1,6 +1,6 @@
 ---
-title: Sensitivities and  Thought Control
-summary: I am examining the relationship between anxiety, depressive, and suicidal sensitivities, as well as how they relate to thought control and suicidality.
+title: Anxiety, Depression, and Suicide-related Sensitivities
+summary: Examining the relationship between different types of sensitivities and how they relate to suicide. 
 tags:
 - thought processes
 date: "2022-5-12"
