@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Clinical and psychological implications of post-traumatic stress in firefighters: a moderated network study"
-authors: [Karnick, A.T.; Caulfield, N.; Buerke, M.; Stanley, I.; Capron, D.W.; Vujanovic, A.]
+authors: [Karnick, A.T., Caulfield, N., Buerke, M., Stanley, I., Capron, D.W., Vujanovic, A.]
 date: 2023-11-14
 doi: "https://doi.org/10.1080/16506073.2023.2282374"
 

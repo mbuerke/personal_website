@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Childhood Trauma is Associated with Early-Onset but not Late-Onset Suicidal Behavior in Late-Life Depression"
-authors: [Chang, Y.; Buerke, M.; Galfalvy, H.; Szanto, K.]
+authors: [Chang, Y., Buerke, M., Galfalvy, H., Szanto, K.]
 date: 2023-08-29
 doi: "https://doi.org/10.1017/S1041610223000662 "
 
@@ -33,7 +33,7 @@ Our sample included 224 adults aged 50+ (M ± SD = 62.5 ± 7.4) recruited into t
 <br>
 <strong>Measurements:</strong>
 The Childhood Trauma Questionnaire measured experiences of childhood trauma such as emotional abuse, physical abuse, emotional neglect, physical neglect, and sexual abuse.
-
+<br>
 <strong>Results:</strong>
 Attempters were separated into early- and late-onset based on age of first attempt using a statistical algorithm that identified a cutoff age of 30 years old. Overall, we found group differences in emotional and physical abuse and neglect in both genders and sexual abuse in females, but not in males. Early-onset attempters experienced more childhood emotional abuse and neglect than late-onset attempters and were more likely to have experienced multiple forms of abuse. They also experienced more emotional abuse and neglect than all comparison groups. Consistently, early-onset attempters more often met criteria for current or lifetime PTSD relative to late-onset attempters and most comparison groups. Late-onset attempters had similar levels of childhood trauma as other depressed groups.
 <br>
