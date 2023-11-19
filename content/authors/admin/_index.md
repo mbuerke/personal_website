@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
- I am currently working in Dr. Daniel Capron's {{< staticref "https://https://lsu-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}}, which has recently moved to Louisiana State University. My ultimate goal is to improve our ability to detect suicide risk and prevent suicide. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
+ I am currently working in Dr. Daniel Capron's {{< staticref "https://lsu-atrp.weebly.com/" "newtab" >}} Anxiety and Trauma Research Lab {{< /staticref >}}, which has recently moved to Louisiana State University. My ultimate goal is to improve our ability to detect suicide risk and prevent suicide. From this, I have researched trandiagnostic risk factors for suicidal ideation and behavior, and am currently working on learning how to incorporate treatment into my research and training. 
  
  {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
  

@@ -1,5 +1,5 @@
 ---
-title: "The Relations Between Rumination, Thought Control, and Suicidal ThinkingSuicide in Children: The Role of Educators and Health Providers in Decreasing Youth Suicides"
+title: "Suicide in Children: The Role of Educators and Health Providers in Decreasing Youth Suicides"
 
 event: ADHD conference
 event_url: 

@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: morgan.buerke@usm.edu
-phone: (724) 307-5523
+email: mbuerk1@lsu.edu
+phone: (225) 522-2375
 address:
-  street: 118 College Drive.
-  city: Hattiesburg
-  region: MS
-  postcode: '39402'
-  country: United States
-  country_code: US
+  street:
+  city: 
+  region:
+  postcode: 
+  country: 
+  country_code: 
 #contact_links:
 #  - icon: twitter
 #    icon_pack: fab
@@ -86,7 +86,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 135
+abstract_length: 100
 plugins_js: []
 avatar:
   gravatar: false
