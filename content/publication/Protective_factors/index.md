@@ -36,7 +36,7 @@ summary: ""
 
 tags: [protective factors, mindfulness, geriatric suicide]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

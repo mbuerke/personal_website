@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Network analysis, transdiagnostic, suicide risk, anxiety sensitivity, Interpersonal Theory of Suicide]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
