@@ -1,5 +1,5 @@
 ---
-title: "Clinical Psychology Graduate Students’ Exposure to Suicide Assessment and Management"
+title: "Dissociation and alcohol use have an indirect effect on post-traumatic stress symptoms and suicide capability in the National Guard. "
 
 event: Suicide Research Symposium
 event_url: 
@@ -18,8 +18,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 
 
-authors: [Buerke, M., Kapoulea, E., Lopex, A., Bootes, K.,Eslava, K., Capron, D. W., Nadorff, M.]
-tags: [clinical training, clinical psychology, graduate training, suicide]
+authors: [Obrien, E., Buerke, M., Capron, D. W.]
+tags: [dissociation, trauma, national guard, suicide, suicide capability]
 
 # Is this a featured talk? (true/false)
 featured: true

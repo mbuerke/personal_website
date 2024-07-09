@@ -1,25 +1,25 @@
 ---
-title: "Clinical Psychology Graduate Students’ Exposure to Suicide Assessment and Management"
+title: "Engaging pediatricians and pediatric health care providers in suicide prevention: the Mississippi experience."
 
-event: Suicide Research Symposium
+event: Pediatric Academic Societies
 event_url: 
 
-location: Online
+location: Toronto, ON, Canada
 
 summary: 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-04-17"
+date: "2024-05-02"
 date_end: 
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 
 
-authors: [Buerke, M., Kapoulea, E., Lopex, A., Bootes, K.,Eslava, K., Capron, D. W., Nadorff, M.]
-tags: [clinical training, clinical psychology, graduate training, suicide]
+authors: [Buerke, M.]
+tags: [pediatricians, suicide prevention, Mississippi, American Foundation for Suicide Prevention, American Academy of Pediatrics]
 
 # Is this a featured talk? (true/false)
 featured: true
