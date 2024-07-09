@@ -31,7 +31,7 @@ item:
   organization: Psi Chi
   organization_url: 
   title: 2022-23 Mamie Phipps Clark Diversity Research Grant
-  url: ""
+  url: "https://www.psichi.org/page/gradresinfo"
   projects: 
   - SMP
 - certificate_url: 
