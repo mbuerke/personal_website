@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Cognitive Behavior Therapy"
+publication: Cognitive Behavior Therapy
 publication_short:
 
 abstract: "Firefighters are frequently exposed to trauma and may experience a unique symptom presentation of post-traumatic stress. Prior research has identified stronger associations between certain post-traumatic stress symptoms (e.g. detachment, intrusions, physiological reactivity) using network analysis. However, little is known about the effects of symptom severity and emergency work-related trauma on symptom networks. The present study probed the network structure of post-traumatic stress symptoms in trauma-exposed firefighters (N = 871) to model the dynamic interactions of psychological symptoms. We developed a network of post-traumatic stress symptoms and a network of post-traumatic stress with clinical covariates and used moderated network modelling to assess the effects of having PTSD and experiencing work-related trauma on the networks. We identified high edge correlations between several nodes (e.g. startle/hypervigilance, internal/external cue avoidance, detachment/lack of interest) and high centrality of detachment, external cue avoidance, and flashbacks. Additionally, having PTSD moderated positive network associations between risk-taking and suicidality and between distorted blame and post-traumatic cognitions. Work-related trauma moderated negative associations between appetite gain and loss and appetite loss and suicidality. Findings suggest that targeting specific symptoms of detachment, external cue avoidance, and flashbacks could allow for the development of effective trauma-informed interventions for these populations."
