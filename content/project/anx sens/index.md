@@ -8,7 +8,7 @@ date: "2022-5-12"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
+image: 
   caption: 
   focal_point: 
 
