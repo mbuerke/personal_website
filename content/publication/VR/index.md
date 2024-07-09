@@ -26,7 +26,7 @@ summary: ""
 
 tags: [virtual reality, suicide, methodology, impulsivity, ethics]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
