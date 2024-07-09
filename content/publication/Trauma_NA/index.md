@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Network analysis, transdiagnostic, firefighter, anxiety sensitivity, trauma, post-traumatic stress]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

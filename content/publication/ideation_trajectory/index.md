@@ -33,7 +33,7 @@ summary: ""
 
 tags: [Suicidal behavior, Suicidal ideation, Death by suicide, Late life]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
