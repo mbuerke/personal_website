@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Recent Projects
+title: Areas of Research
 subtitle: ''
 
 content:
