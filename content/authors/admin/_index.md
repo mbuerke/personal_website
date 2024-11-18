@@ -76,4 +76,4 @@ highlight_name: true
  
  {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
  
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 7-9-2024.pdf" "newtab" >}}CV{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 11-1-2024.pdf" "newtab" >}}CV{{< /staticref >}}.
