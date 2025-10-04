@@ -16,9 +16,6 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Presentations
-    url: '#talks'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 80
@@ -26,5 +23,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/CV 11-1-2024.pdf
+    url: uploads/CV 9-30-25.pdf
     weight: 20
