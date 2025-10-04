@@ -20,12 +20,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Risk Factors for suicidal ideation and behavior
-- Rumination and other thought processes
-- Emotion Regulation
-- Decision-making/ Behavioral economics
-- Use of technology to assess for suicidality
-- Treatment of suicidal thoughts
+- Transdiagnostic risk factor for suicidal ideation and behavior
+- Improving our suicide risk screening, assessment, and interventions
+- Tailoring our understanding of suicide risk across population
 
 # Education to show in About widget
 education:
@@ -47,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mbuerke@kent.edu"
+  link: "mailto:mbuerk1@lsu.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BuerkeMorgan
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=2faYvloAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=z3FmvwcAAAAJ&hl=en&authuser=1
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Morgan-Buerke
@@ -77,4 +74,4 @@ highlight_name: true
  {{< icon name="asterisk" pack="fas fa-asterisk" >}}Pronouns: she/her/hers
  
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV 9-30-25.pdf" "newtab" >}}CV{{< /staticref >}}.
- 
+
