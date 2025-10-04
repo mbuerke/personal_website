@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Post-traumatic Stress Symptoms Relate to Suicide Capability through Dissociation and Alcohol Use in the National Guard"
-authors: [O'Brien, E., Buerke, M., Bauer, B., Anestis, M., Capron, D.W.]
-date: 2023-04-30
-doi: "https://doi.org/10.1002/jad.12179"
+title: "An Investigation of Suicide Screening and Prevention Procedures Used in Pediatric Offices Across the State of Mississippi"
+authors: [Buerke, M., Stempkovski, M., Goldbeck, M., Carruth, C., Shook, J., Weathersby, A.]
+date: 2025-09-08
+doi: "https://jmsma.scholasticahq.com/article/143883-an-investigation-of-suicide-screening-and-prevention-procedures-used-in-pediatric-offices-across-the-state-of-mississippi"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-01
@@ -16,25 +16,15 @@ publishDate: 2022-08-01
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Adolescence"
-publication_short:
+publication: "Journal of the Mississippi State Medical Association"
+publication_short: JMSMA
 
-abstract: "<strong>Background: </strong>
-Concussions are associated with a variety of physical, cognitive, and mental health impairments. If sustained during adolescence, a time when the brain is undergoing development, the risk of long-term impairments becomes heightened. This is a notable subject for investigation as many concussions are sustained among adolescents during high school sports and other physical activities.
-<br>
-<strong>Methods</strong>
-We used data from the 2019 United States Youth Risk Behavior Survey to investigate the association between concussions and suicidality (i.e., suicide ideation, planning, and attempts), suicide capability (i.e., physical fighting and weapon carrying), and hopelessness, a risk factor for suicide. We utilized a cross-sectional design and used multivariate regression models and t tests for analysis.
-<br>
-<strong>Results: </strong>
-Participants were 1754 adolescent students who sustained a concussion during the prior year (54.61% male; M age = 15.94) and 9795 adolescent students who did not sustain a concussion during the prior year (47.27% male; M age = 15.95). Females were less likely (13.23%) than males (17.12%) to report at least one concussion in the past 12 months. Both male and female students who had experienced a concussion were more likely to report physical fighting, weapon carrying, and hopelessness. Male students with a concussion history were also more likely to report suicide attempts than male students without a concussion history.
-<br>
-<strong>Conclusion: </strong>
-Findings indicate that concussions are associated with an increased risk of suicide attempts, suicide capability, and hopelessness among male adolescents and suicide capability and hopelessness among female adolescents. They further suggest a need for additional mental health support and safety policies for student-athletes and other at-risk adolescents."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [head injury, suicide, concussion, adolescents]
+tags: [suicide, children, adolescents, pediatrician]
 categories: []
 featured: false
 
