@@ -27,36 +27,21 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2023-03-31"
+  description: "To develop a youth suicide preventon plan for the state of Mississippi"
+  organization: American Academy of Pediatrics
+  organization_url: 
+  title: Suicide Prevention Ambassador Funding
+  url:
+  projects: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2023-03-31"
   description: "An Examination of Daily Minority Stress and Suicidal Thoughts in Sexual Minority People"
   organization: Psi Chi
   organization_url: 
   title: 2022-23 Mamie Phipps Clark Diversity Research Grant
   url: "https://www.psichi.org/page/gradresinfo"
   projects: 
-- certificate_url: 
-  date_end: ""
-  date_start: "2017-06-01"
-  description: "$2,800 to fund data collection on Honor’s Thesis summer research"
-  organization: Kent State University
-  organization_url: 
-  title: Summer Undergraduate Research Experience Award
-  url: ""
-- certificate_url: 
-  date_end: 
-  date_start: "2017-02-01"
-  description: "$500 to present at the Midwestern Psychological Association Conference"
-  organization: Kent State University
-  organization_url: 
-  title: Travel Award
-  url: 
-- certificate_url: 
-  date_end: 
-  date_start: "2016-06-01"
-  description: "$2,200 to do research over the summer on a part-time basis"
-  organization: Kent State University
-  organization_url: 
-  title: "Undergraduate Summer Internship Award"
-  url: ""
 
 design:
   columns: '2' 
