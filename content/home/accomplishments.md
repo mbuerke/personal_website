@@ -33,7 +33,6 @@ item:
   title: 2022-23 Mamie Phipps Clark Diversity Research Grant
   url: "https://www.psichi.org/page/gradresinfo"
   projects: 
-  - SMP
 - certificate_url: 
   date_end: ""
   date_start: "2017-06-01"

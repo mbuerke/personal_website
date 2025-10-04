@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Brooding, reflection, anger rumination, depressive rumination, suicidal rumination, suicide]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
