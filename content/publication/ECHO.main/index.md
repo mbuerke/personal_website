@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The associations between sport- and physical activity-related concussions and suicidality, suicide capability, and hopelessness among high school adolescents"
-authors: [Bailey, A.L., Capron, D.W., Buerke, M.L., Bauer, B.W.]
-date: 2025-07-25
-doi: "https://doi.org/10.1111/sltb.70036 "
+title: "An Investigation of Suicide Screening and Prevention Procedures Used in Pediatric Offices Across the State of Mississippi"
+authors: [Buerke, M., Stempkovski, M., Goldbeck, M., Carruth, C., Shook, J., Weathersby, A.]
+date: 2025-09-08
+doi: "https://jmsma.scholasticahq.com/article/143883-an-investigation-of-suicide-screening-and-prevention-procedures-used-in-pediatric-offices-across-the-state-of-mississippi"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-01
@@ -16,25 +16,15 @@ publishDate: 2022-08-01
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Suicide and Life-Threatening Behavior"
-publication_short: SLTB
+publication: "Journal of the Mississippi State Medical Association"
+publication_short: JMSMA
 
-abstract: "<strong>Introduction: </strong>
-National Guard members face unique challenges of psychological trauma and rapid transitions between military and civilian life. These challenges may partially explain Guard members' increased likelihood of developing Posttraumatic Stress Disorder (PTSD) and higher suicide rates compared to other military and civilian populations. These challenges may prompt the use of dissociation and alcohol to cope, which can exacerbate PTSD symptoms and increase tolerance of painful experiences, such as suicide. Despite these connections, the interplay among dissociation, alcohol, PTSD symptoms, and suicide capability in Guard members remains unknown.
-<br>
-<strong>Methods</strong>
-This study assessed how dissociation and alcohol use may indirectly explain the relationship between PTSD symptoms and acquired suicide capability in 144 Guard members. Two alternative models, including psychological reactance and depression, were tested to assess model fit.
-<br>
-<strong>Results: </strong>
-Using Structural Equation Modeling, we found that PTSD severity related to acquired suicide capability through dissociation and alcohol use. The base model had a significantly better fit than the alternative models.
-<br>
-<strong>Conclusion: </strong>
-This work could contribute to necessary research on why Guard members are disproportionately affected by suicide. The results of this study may have implications for suicide prevention and intervention strategies among Guard members with PTSD symptoms, alcohol use, and dissociation."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [suicide capability, national guard, dissociation, alcohol, trauma, post-traumatic stress]
+tags: [suicide, children, adolescents, pediatrician]
 categories: []
 featured: true
 

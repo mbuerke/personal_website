@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The associations between sport- and physical activity-related concussions and suicidality, suicide capability, and hopelessness among high school adolescents"
-authors: [Bailey, A.L., Capron, D.W., Buerke, M.L., Bauer, B.W.]
+title: "Posttraumatic Stress Symptoms Relate to Acquired Suicide Capability Through Dissociation and Alcohol Use in the National Guard"
+authors: [O'Brien,E.J., Buerke, M., Bauer, B.W., Anestis, M.D., Capron, D.W.]
 date: 2025-07-25
 doi: "https://doi.org/10.1111/sltb.70036 "
 
